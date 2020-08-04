@@ -1,5 +1,5 @@
-# The robots.txt file is used to control how search engines index your live URLs.
-# See https://sailsjs.com/anatomy/assets/robots-txt for more information.
+# The .txt file is used to control how search engines index your live URLs.
+# See https://sailsjs.com/anatomy/assets/-txt for more information.
 
 
 
